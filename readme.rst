@@ -1,4 +1,10 @@
 ###################
+What is CIPanel
+###################
+
+CIPanel was based in CodeIgniter Framework. It's a simple system login and password panel, forgotten password and user account.
+
+###################
 What is CodeIgniter
 ###################
 
@@ -14,16 +20,7 @@ for a given task.
 Release Information
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<http://www.codeigniter.com/download>`_ page.
-
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+CIPanel was based in original code from: http://benedmunds.com/ion_auth/
 
 *******************
 Server Requirements
